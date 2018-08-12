@@ -1,0 +1,25 @@
+{
+  "name": "image-carousel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "/Users/aakash/.nvm/versions/node/v8.11.3/lib/node_modules/http-server/bin/http-server -g -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aakashvermaee/image-carousel.git"
+  },
+  "keywords": [
+    "image-carosel",
+    "image-slider"
+  ],
+  "author": "Aakash Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aakashvermaee/image-carousel/issues"
+  },
+  "homepage": "https://github.com/aakashvermaee/image-carousel#readme",
+  "dependencies": {}
+}
